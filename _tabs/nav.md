@@ -13,3 +13,6 @@ order: 4
 
 # tools
 # cheatSheets
+[Markdown](https://commonmark.org/help/)  
+[vim](https://vim.rtorr.com/)  
+[nginx](https://github.com/SimulatedGREG/nginx-cheatsheet)  
