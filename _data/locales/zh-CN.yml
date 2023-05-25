@@ -15,7 +15,7 @@ tabs:
   tags: 标签
   archives: 时间线
   about: 关于
-  nav: 书签导航
+  memo: 备忘录
 
 # the text displayed in the search bar & search results
 search:
