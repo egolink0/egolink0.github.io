@@ -19,7 +19,7 @@ order: 4
 
 # Front End tools
 ## mock 数据 
-### [json-server](https://github.com/typicode/json-server)
+### [json-server](https://github.com/typicode/json-server)  
 - 特点：支持 restful 风格接口的<增删改查>
 - 支持静态资源图片等存储 
 - 基于 nodejs 环境
