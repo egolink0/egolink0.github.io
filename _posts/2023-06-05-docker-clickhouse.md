@@ -122,3 +122,7 @@ yandex/clickhouse-server:latest
         ├── clickhouse-server.err.log
         └── clickhouse-server.log
 ```
+
+
+## 参考
+[clickhouse 新建用户和密码](https://www.cnblogs.com/yoyo1216/p/12835941.html)
