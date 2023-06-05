@@ -1,8 +1,9 @@
 ---
 title: docker 之基础概念和使用（一）
-date: 2023-06-01 10:00:00 +0800
+date: 2023-06-01 20:00:00 +0800
 categories: [文章, docker]
 tags: [docker]
+author: ego
 ---
 
 # 主要概念
@@ -39,7 +40,8 @@ exit 或者 Ctrl + D
 
 # 确认正在运行的容器有哪些
 docker ps
-或者 docker container ls 
+或者 docker container ls
+docker ps -a # 查看所有容器，包括已经停止的容器 
 
 # 启动/重启/停止/强制停止/移除 容器
 docker container start/restart/stop/kill/rm <容器ID>
