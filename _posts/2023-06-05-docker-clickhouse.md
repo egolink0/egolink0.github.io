@@ -1,5 +1,5 @@
 ---
-title: docker 之部署 clickhouse-server 及数据存储（二）
+title: docker 之部署 clickhouse-server 及数据存储
 date: 2023-06-04 20:00:00 +0800
 categories: [文章, docker]
 tags: [docker,clickhouse]
