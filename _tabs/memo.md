@@ -13,7 +13,7 @@ mermaid: true
 
 # [cheatSheets](https://devhints.io/)
 ---
-[Markdown](https://www.markdown-cheatsheet.com/)  [vim](https://vim.rtorr.com/)  [nginx](https://github.com/SimulatedGREG/nginx-cheatsheet)  [curl](https://devhints.io/curl)  [mysql](https://devhints.io/mysql)  
+[Markdown](https://www.markdown-cheatsheet.com/) ｜ [vim](https://vim.rtorr.com/) ｜ [nginx](https://github.com/SimulatedGREG/nginx-cheatsheet) ｜ [curl](https://devhints.io/curl) ｜  [mysql](https://devhints.io/mysql)  
 
 
 # Front End tools
