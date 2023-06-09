@@ -8,7 +8,7 @@ mermaid: true
 ***
 # blogs
 ---
-[酷 壳 – CoolShell](https://coolshell.cn)   [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)   [Deepin 王勇](https://manateelazycat.github.io/)   [ldsink](https://ldsink.com/)  
+[酷 壳 – CoolShell](https://coolshell.cn)  ｜ [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  ｜ [Deepin 王勇](https://manateelazycat.github.io/) ｜  [ldsink](https://ldsink.com/)  
 
 
 # [cheatSheets](https://devhints.io/)
