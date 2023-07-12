@@ -6,7 +6,7 @@ tags: [Cookie, Session, Token, jwt]
 author: ego
 ---
 
-![op](../assets/img/blog/auth-op.png)
+![op](/assets/img/blog/auth-op.png)
 
 客户端和服务端进行的用户会话状态存储的机制变化，大致是：
 
