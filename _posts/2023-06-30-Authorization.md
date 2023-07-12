@@ -42,7 +42,7 @@ cookie 机制是基于 cookie 存储方式实现的状态记录。
 - 服务端：校验成功，返回请求的结果
 - 客户端：收到结果，显示内容
 
-![auth-cookie](../assets/img/blog/auth-cookie.png)
+![auth-cookie](/assets/img/blog/auth-cookie.png)
 
 > cookie 机制中存在的问题是：
 >
@@ -68,7 +68,7 @@ cookie 机制是基于 cookie 存储方式实现的状态记录。
 - 服务端：拿到用户 sessionValue 中的 uid ，直接就可以使用 uid 访问数据库的资源，不用二次验证 用户名和密码
 - 服务端：返回资源
 
-![auth-session](../assets/img/blog/auth-session.png)
+![auth-session](/assets/img/blog/auth-session.png)
 
 ### 什么时候需要 redis ?
 
@@ -100,7 +100,7 @@ session 机制很好的解决了 cookie 机制的第一个问题，但仍然是�
 - 服务端：解析 token 是否正确有效，通过后根据 token 中的用户信息 uid 等进行后续资源访问，获取请求结果
 - 客户端：收到结果，显示
 
-![auth-token](../assets/img/blog/auth-token.png)
+![auth-token](/assets/img/blog/auth-token.png)
 
 ### token 优势
 
